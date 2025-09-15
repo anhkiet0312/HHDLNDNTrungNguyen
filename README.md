@@ -1,6 +1,6 @@
 ERP cho Trung Nguyên Legend
 
-(file database của odoo quá lớn không thể up lên git link drive:https://drive.google.com/file/d/1zySAQeKqtovlA-O89j833Apw3YMhA-B6/view?usp=sharing)
+(file database của odoo quá lớn không thể up lên git link drive :https://drive.google.com/file/d/1zySAQeKqtovlA-O89j833Apw3YMhA-B6/view?usp=sharing)
 
 Giới thiệu
 
