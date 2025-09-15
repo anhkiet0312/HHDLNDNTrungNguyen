@@ -1,5 +1,7 @@
 ERP cho Trung Nguyên Legend
 
+(file database của odoo quá lớn không thể up lên git link drive:https://drive.google.com/file/d/1zySAQeKqtovlA-O89j833Apw3YMhA-B6/view?usp=sharing)
+
 Giới thiệu
 
 -Đây là project môn Hệ Hoạch Định Nguồn Lực Doanh Nghiệp (ERP) được thực hiện tại Trường Đại học Ngoại ngữ – Tin học TP.HCM, Khoa Công nghệ Thông tin.
