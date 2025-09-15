@@ -1,4 +1,5 @@
 ERP cho Trung Nguyên Legend
+
 Giới thiệu
 
 Đây là project môn Hệ Hoạch Định Nguồn Lực Doanh Nghiệp (ERP) được thực hiện tại Trường Đại học Ngoại ngữ – Tin học TP.HCM, Khoa Công nghệ Thông tin.
