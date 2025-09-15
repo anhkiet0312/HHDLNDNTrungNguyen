@@ -6,7 +6,7 @@ Giới thiệu
 
 -Đề tài tập trung phân tích, lựa chọn và triển khai hệ thống ERP phù hợp cho Tập đoàn Trung Nguyên Legend, một trong những thương hiệu cà phê hàng đầu Việt Nam.
 
-Mục tiêu
+Mục tiêu:
 
 -Phân tích thực trạng hoạt động kinh doanh và quản trị của Trung Nguyên Legend.
 
@@ -16,7 +16,7 @@ Mục tiêu
 
 -Thực hiện demo các quy trình chính: bán hàng, mua hàng, tồn kho, sản xuất, nhân sự, thương mại điện tử (eCommerce), POS và website.
 
-Nội dung chính
+Nội dung chính:
 
 1. Giới thiệu Trung Nguyên Legend: lịch sử hình thành, phát triển, kết quả kinh doanh gần đây.
 
@@ -40,7 +40,7 @@ Nội dung chính
 
 -Hạn chế và hướng phát triển trong tương lai (tích hợp AI, mở rộng thương mại điện tử, tối ưu logistics).
 
-Công nghệ và Công cụ
+Công nghệ và Công cụ:
 
 -ERP: Odoo (Community & Enterprise).
 
